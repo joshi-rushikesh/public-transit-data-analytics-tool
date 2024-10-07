@@ -3,7 +3,6 @@
 # Description - This program interacts with the CTA2 L daily ridership database through a console-based interface. 
 #               It allows users to input commands and retrieve data, using SQL for data retrieval and computations, while Python is used for displaying results and plotting data when requested. 
 #               The project aims to provide insights into the CTA's daily ridership patterns.
-# References - Piazza, Class Resources
 
 
 import sqlite3
